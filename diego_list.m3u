@@ -1,0 +1,139 @@
+#EXTM3U
+EXTINF:-1,COL - WIN SPORTS HD
+
+http://tv.nousiptv.com:8080/Elvis/1234/3057
+
+#EXTINF:-1,COL - WIN SPORTS + SD
+
+http://tv.nousiptv.com:8080/Elvis/1234/41815
+
+#EXTINF:-1,COL - WIN SPORTS + FHD
+
+http://tv.nousiptv.com:8080/Elvis/1234/16724
+
+#EXTINF:-1,COL - WIN SPORTS FHD
+
+http://tv.nousiptv.com:8080/Elvis/1234/3271
+
+#EXTINF:-1,LD - DIRECTV SPORTS HD
+
+http://tv.nousiptv.com:8080/Elvis/1234/7863
+
+#EXTINF:-1,LD - DIRECTV SPORTS
+
+http://tv.nousiptv.com:8080/Elvis/1234/33512
+
+#EXTINF:-1,LD - DIRECTV SPORTS 2 HD
+
+http://tv.nousiptv.com:8080/Elvis/1234/32882
+
+#EXTINF:-1,LD - DIRECTV SPORTS 2
+
+http://tv.nousiptv.com:8080/Elvis/1234/32881
+
+#EXTINF:-1,LD - DIRECTV SPORTS PLUS HD
+
+http://tv.nousiptv.com:8080/Elvis/1234/27879
+
+#EXTINF:-1,LD - DIRECTV SPORTS PLUS
+http://tv.nousiptv.com:8080/Elvis/1234/8520
+
+#EXTINF:-1,CINE - HBO XTREME
+
+http://tv.nousiptv.com:8080/Elvis/1234/44341
+#EXTINF:-1,CINE - HBO
+
+http://tv.nousiptv.com:8080/Elvis/1234/3199
+
+#EXTINF:-1,CINE - HBO 2
+
+http://tv.nousiptv.com:8080/Elvis/1234/3198
+
+#EXTINF:-1,CINE - HBO POP
+
+http://tv.nousiptv.com:8080/Elvis/1234/47445
+
+#EXTINF:-1,CINE - HBO PLUS
+
+http://tv.nousiptv.com:8080/Elvis/1234/4003
+
+#EXTINF:-1,CINE - HBO MUNDI
+
+http://tv.nousiptv.com:8080/Elvis/1234/44337
+
+#EXTINF:-1,CINE - HBO FAMILY 
+
+http://tv.nousiptv.com:8080/Elvis/1234/4017
+
+#EXTINF:-1,CINE - HBO SIGNATURE
+
+http://tv.nousiptv.com:8080/Elvis/1234/3197
+#EXTINF:-1,FHD - HBO 2
+
+http://tv.nousiptv.com:8080/Elvis/1234/4095
+
+#EXTINF:-1,FHD - HBO HD
+
+http://tv.nousiptv.com:8080/Elvis/1234/4112
+
+#EXTINF:-1,FHD - HBO PLUS
+
+http://tv.nousiptv.com:8080/Elvis/1234/4109
+
+#EXTINF:-1,FHD - HBO FAMILY
+http://tv.nousiptv.com:8080/Elvis/1234/3211
+EXTINF:-1,FHD - HBO XTREME
+
+http://tv.nousiptv.com:8080/Elvis/1234/8226
+
+#EXTINF:-1,FHD - HBO POP
+
+http://tv.nousiptv.com:8080/Elvis/1234/8246
+#EXTINF:-1,FHD - STAR CHANNEL HD
+
+http://tv.nousiptv.com:8080/Elvis/1234/4022
+
+#EXTINF:-1,FHD - STAR LIFE HD
+
+http://tv.nousiptv.com:8080/Elvis/1234/4043
+
+#EXTINF:-1,FHD - STAR ACTION
+
+http://tv.nousiptv.com:8080/Elvis/1234/4019
+
+#EXTINF:-1,FHD - STAR CINEMA
+
+http://tv.nousiptv.com:8080/Elvis/1234/8238
+
+#EXTINF:-1,FHD - STAR CLASSICS
+
+http://tv.nousiptv.com:8080/Elvis/1234/8237
+
+#EXTINF:-1,FHD - STAR COMEDY 
+
+http://tv.nousiptv.com:8080/Elvis/1234/8234
+
+#EXTINF:-1,FHD -STAR FUN
+
+http://tv.nousiptv.com:8080/Elvis/1234/4084
+
+#EXTINF:-1,FHD - STAR HITS
+
+http://tv.nousiptv.com:8080/Elvis/1234/4023
+
+#EXTINF:-1,FHD - STAR SERIES
+
+http://tv.nousiptv.com:8080/Elvis/1234/4020
+#EXTINF:-1,ES - LA LIGA TV BAR FHD
+
+http://tv.nousiptv.com:8080/Elvis/1234/51343
+#EXTINF:-1,ES - LIGA DE CAMPEONES  FHD
+
+http://tv.nousiptv.com:8080/Elvis/1234/16717
+
+#EXTINF:-1 tvh-epg="enable" tvg-chno="5205" tvh-tags="PAISES" group-title="COLOMBIA" tvg-logo="http://www.planetfools.com/win-sports.png",CO: WIN SPORTS
+http://hls.steelchannels.com/streaming/435206f9/244/5205
+
+#EXTINF:-1 tvh-epg="enable" tvg-chno="5206" tvh-tags="PAISES" group-title="COLOMBIA" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png",CO: WIN SPORTS +
+
+http://hls.steelchannels.com/streaming/435206f9/244/5206
