@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvh-epg="enable" tvg-chno="5205" tvh-tags="PAISES" group-title="COLOMBIA" tvg-logo="http://www.planetfools.com/win-sports.png",CO: WIN SPORTS
+http://hls.steelchannels.com/streaming/435206f9/244/5205
+
+#EXTINF:-1 tvh-epg="enable" tvg-chno="5206" tvh-tags="PAISES" group-title="COLOMBIA" tvg-logo="https://steelchannels.com/assets/img/channels/noimage.png",CO: WIN SPORTS +
+
+http://hls.steelchannels.com/streaming/435206f9/244/5206
