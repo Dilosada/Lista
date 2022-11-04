@@ -1,0 +1,250 @@
+#EXTM3U
+#EXTINF:0,HBO HD
+#EXTGRP:HBO
+http://magmas5.com:8000/live/malotv/gratis/150077.m3u8
+#EXTINF:0,HBO 2 HD
+#EXTGRP:HBO
+http://magmas5.com:8000/live/malotv/gratis/150078.m3u8
+#EXTINF:0,HBO FAMYLY HD
+#EXTGRP:HBO
+http://magmas5.com:8000/live/malotv/gratis/150079.m3u8
+#EXTINF:0,HBO + HD
+#EXTGRP:HBO
+http://magmas5.com:8000/live/malotv/gratis/150080.m3u8
+#EXTINF:0,HBO SIGNATURE HD
+#EXTGRP:HBO
+http://magmas5.com:8000/live/malotv/gratis/150081.m3u8
+#EXTINF:0,HBO XTREME
+#EXTGRP:HBO
+http://magmas5.com:8000/live/malotv/gratis/56.m3u8
+#EXTINF:0,HBO MUNDI
+#EXTGRP:HBO
+http://magmas5.com:8000/live/malotv/gratis/4800.m3u8
+#EXTINF:0,UNIVERSAL PREMIERE
+#EXTGRP:UNIVERSAL
+http://magmas5.com:8000/live/malotv/gratis/150072.m3u8
+#EXTINF:0,UNIVERSAL COMEDI
+#EXTGRP:UNIVERSAL
+http://magmas5.com:8000/live/malotv/gratis/150076.m3u8
+#EXTINF:0,UNIVERSAL CINEMA
+#EXTGRP:UNIVERSAL
+http://magmas5.com:8000/live/malotv/gratis/150074.m3u8
+#EXTINF:0,UNIVERSAL CRIME
+#EXTGRP:UNIVERSAL
+http://magmas5.com:8000/live/malotv/gratis/150075.m3u8
+#EXTINF:0,UNIVERSAL REALITY
+#EXTGRP:UNIVERSAL
+http://magmas5.com:8000/live/malotv/gratis/63.m3u8
+#EXTINF:0,AMC
+#EXTGRP:CINE
+http://magmas5.com:8000/live/malotv/gratis/135656.m3u8
+#EXTINF:0,AXN
+#EXTGRP:CINE
+http://magmas5.com:8000/live/malotv/gratis/138126.m3u8
+#EXTINF:0,CINECANAL
+#EXTGRP:CINE
+http://magmas5.com:8000/live/malotv/gratis/138127.m3u
+#EXTINF:0,GOLDEN
+#EXTGRP:CINE
+http://magmas5.com:8000/live/malotv/gratis/138127.m3u
+#EXTINF:0,GOLDEN PLUS
+#EXTGRP:CINE
+http://magmas5.com:8000/live/malotv/gratis/3648.m3u
+#EXTINF:0,STAR CHANNEL
+#EXTGRP:CINE
+http://magmas5.com:8000/live/malotv/gratis/3648.m3u
+#EXTINF:0,UNIVERSAL CHANNEL
+#EXTGRP:CINE
+http://magmas5.com:8000/live/malotv/gratis/39.m3u
+#EXTINF:0,STUDIO UNIVERSAL
+#EXTGRP:CINE
+http://magmas5.com:8000/live/malotv/gratis/39.m3u
+#EXTINF:0,CNN INTERNACIONAL
+#EXTGRP:NEWS
+http://magmas5.com:8000/live/malotv/gratis/132635.m3u8
+#EXTINF:0,CNN EPA
+#EXTGRP:NEWS
+http://magmas5.com:8000/live/malotv/gratis/141351.m3u8
+#EXTINF:0,BBC WORLD
+#EXTGRP:NEWS
+http://magmas5.com:8000/live/malotv/gratis/132636.m3u8
+#EXTINF:0,NBC NEWS
+#EXTGRP:NEWS
+http://magmas5.com:8000/live/malotv/gratis/132636.m3u8
+#EXTINF:0,RCN
+#EXTGRP:NACIONALES
+http://magmas5.com:8000/live/malotv/gratis/3575.m3u8
+#EXTINF:0,RCN NOVELAS
+#EXTGRP:NACIONALES
+http://magmas5.com:8000/live/malotv/gratis/3577.m3u8
+#EXTINF:0,CARACOL
+#EXTGRP:NACIONALES
+http://magmas5.com:8000/live/malotv/gratis/3572.m3u8
+#EXTINF:0,CARACOL INTERNACIONAL
+#EXTGRP:NACIONALES
+http://magmas5.com:8000/live/malotv/gratis/3573.m3u8
+#EXTINF:0,CANAL UNO
+#EXTGRP:NACIONALES
+http://magmas5.com:8000/live/malotv/gratis/3570.m3u8
+#EXTINF:0,CITY TV
+#EXTGRP:NACIONALES
+http://magmas5.com:8000/live/malotv/gratis/140410.m3u8
+#EXTINF:0,WIN SPORT HD
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/131983.m3u8
+#EXTINF:0,WIN SPORT + HD
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/131985.m3u8
+#EXTINF:0,WIN SPORT +
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/131984.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/132275.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/132279.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/132276.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/2818.m3u8
+#EXTINF:0,ESPN PREMIUM
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/4787.m3u8
+#EXTINF:0,FOX SPORT
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/132268.m3u8
+#EXTINF:0,FOX SPORT 2
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/132270.m3u8
+#EXTINF:0,FOX SPORT 3
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/132272.m3u8
+#EXTINF:0,SUR | FOX SPORTS PREMIUM
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/4787
+#EXTINF:0,TNT ARG
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/131980.m3u8
+#EXTINF:0,TNT CHILE
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/132272.m3u8
+#EXTINF:0,05 | DIRECTV SPORTS (COL)
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/145404
+#EXTINF:0,DIRECTV SPORTS COL
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/152884.m3u8
+#EXTINF:0,DIRECTV SPORTS
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/152882.m3u8
+#EXTINF:0,DIRECTV SPORTS +
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/live/malotv/gratis/152882.m3u8
+#EXTINF:0,ARG | DIRECTV SPORTS
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/135642
+#EXTINF:0,ARG | DIRCTV SPORTS 2
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/135643
+#EXTINF:0,ARG | DIRECTV SPORTS +
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/135644
+#EXTINF:0,49 | SKY Sports Main Event (ES)
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/145808
+#EXTINF:0,50 | SKY Sports MIX (UK)
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/145811
+#EXTINF:0,47 | BEIN SPORTS XTRA Ñ MX
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/144620
+#EXTINF:0,56 | EVENTOS STAR+ FHD
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/152907
+#EXTINF:0,35 | NBA TV
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/133071
+#EXTINF:0,28 | FORMULA 1 FHD
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/145436
+#EXTINF:0,51 | TUDN XTRA #1
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/145459
+#EXTINF:0,42 | GOL PERU HD
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/145450
+#EXTINF:0,07 | DEPORTV
+#EXTGRP:DEPORTES
+http://magmas5.com:8000/malotv/gratis/3540
+#EXTINF:0,ANIMAL PLANET
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/4910.m3u8
+#EXTINF:0,A&E
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/36.m3u8
+#EXTINF:0,A&E USA
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/129371.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/4910.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/4809.m3u8
+#EXTINF:0,DISCOVERY TURBO
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/4809.m3u8
+#EXTINF:0,NAT GEO
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/132575.m3u8
+#EXTINF:0,HISTORY CHANNEL
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/4808.m3u8
+#EXTINF:0,HISTORY 2
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/132580.m3u8
+#EXTINF:0,DISCOVERY TURBO
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/4809.m3u8
+#EXTINF:0,HGTV
+#EXTGRP:CULTURA
+http://magmas5.com:8000/live/malotv/gratis/132598.m3u8
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:INFANTILES
+http://magmas5.com:8000/live/malotv/gratis/132317.m3u8
+#EXTINF:0,NICK JR
+#EXTGRP:INFANTILES
+http://magmas5.com:8000/live/malotv/gratis/132318.m3u8
+#EXTINF:0,DINESY JR
+#EXTGRP:INFANTILES
+http://magmas5.com:8000/live/malotv/gratis/132320.m3u8
+#EXTINF:0,DISNEY XD
+#EXTGRP:INFANTILES
+http://magmas5.com:8000/live/malotv/gratis/132322.m3u8
+#EXTINF:0,NICK
+#EXTGRP:INFANTILES
+http://magmas5.com:8000/live/malotv/gratis/132326.m3u8
+#EXTINF:0,NAT GEO KIDS
+#EXTGRP:INFANTILES
+http://magmas5.com:8000/live/malotv/gratis/132324.m3u8
+#EXTINF:0,TOONCAST
+#EXTGRP:INFANTILES
+http://magmas5.com:8000/live/malotv/gratis/132325.m3u8
+#EXTINF:0,MTV LIVE
+#EXTGRP:MUSICA
+http://magmas5.com:8000/live/malotv/gratis/146540.m3u8
+#EXTINF:0,MTV CLASSIC
+#EXTGRP:MUSICA
+http://magmas5.com:8000/live/malotv/gratis/146537.m3u8
+#EXTINF:0,MTV 2
+#EXTGRP:MUSICA
+http://magmas5.com:8000/live/malotv/gratis/4809.m3u8
+#EXTINF:0,HTV
+#EXTGRP:MUSICA
+http://magmas5.com:8000/live/malotv/gratis/4975.m3u8
+#EXTINF:0,MTV 00S
+#EXTGRP:MUSICA
+http://magmas5.com:8000/live/malotv/gratis/129372.m3u8
